@@ -1,46 +1,28 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Sorry...
+tagline: We're under construction
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+![Lightmarks Logo](assets/img/logo-s.png)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+* 株式会社ライトマークス (英語表記： Lightmarks Corp.)
+*  〒123-0841 東京都足立区西新井4-38-11
+* 03-3898-4408
+* info@lightmarks.co.jp
+* 2011年2月28日 設立
+* 資本金 410 万円
+* 役員
+  * 代表取締役社長 [堀江 光 (Hikaru HORIE)](http://horie.to)
+* 取引銀行 
+  * 三井住友銀行 西新井支店
+  * みずほ銀行 足立支店
+* 業務内容
+  * ウェブサービス開発
+    * サーバ構築
+    * デザイン制作
+    * コーディング
+  * システム開発
+    * LanguageLab （語学教育支援システム）
+  * インターネットサービス運営
